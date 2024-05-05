@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.error {
+  color: red;
+  margin-bottom: 10px;
+}
+
+.calendar {
+  margin-bottom: 20px;
+}
+
+.class-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 20px;
+}
+
+.class-card {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.class-card button {
+  margin-top: 10px;
+}
+
+.filter {
+  margin-bottom: 20px;
+}
+
+.filter label {
+  margin-right: 10px;
+}

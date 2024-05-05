@@ -1,0 +1,49 @@
+{
+    "classes": [
+        {
+            "id": 1,
+            "name": "Yoga",
+            "instructor": "John Doe",
+            "time": "10:00 AM",
+            "duration": "60 minutes",
+            "capacity": 10,
+            "registered": 5
+        },
+        {
+            "id": 2,
+            "name": "Cardio",
+            "instructor": "Jane Smith",
+            "time": "12:00 PM",
+            "duration": "45 minutes",
+            "capacity": 15,
+            "registered": 8
+        },
+        {
+            "id": 3,
+            "name": "Gymster",
+            "instructor": "John Doe",
+            "time": "10:00 AM",
+            "duration": "30 min",
+            "capacity": 10,
+            "registered": 5
+        },
+        {
+            "id": 4,
+            "name": "Yoga",
+            "instructor": "Loren",
+            "time": "12:00 PM",
+            "duration": "60 minutes",
+            "capacity": 10,
+            "registered": 5
+        },
+        {
+            "id": 5,
+            "name": "Gym",
+            "instructor": "Hellen",
+            "time": "11:00 AM",
+            "duration": "120 minutes",
+            "capacity": 10,
+            "registered": 7
+        }
+    ]
+}
